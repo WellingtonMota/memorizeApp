@@ -1,8 +1,8 @@
 export const ENV = {
-  API_KEY: 'AIzaSyCIJa5RF7LX5oZ4ceK2BoHVpgQo5Lv1ArE',
-  AUTH_DOMAIN: 'memorize-95b9e.firebaseapp.com',
-  DATABASE_URL: 'https://memorize-95b9e.firebaseio.com',
-  PROJECT_ID: 'memorize-95b9e',
-  STORAGE_BUCKET: 'memorize-95b9e.appspot.com',
-  MESSAGING_SENDER_ID: '234349988393'
+  API_KEY: '${API_KEY}',
+  AUTH_DOMAIN: '${AUTH_DOMAIN}',
+  DATABASE_URL: '${DATABASE_URL}',
+  PROJECT_ID: '${PROJECT_ID}',
+  STORAGE_BUCKET: '${STORAGE_BUCKET}',
+  MESSAGING_SENDER_ID: '${MESSAGING_SENDER_ID}'
 };
